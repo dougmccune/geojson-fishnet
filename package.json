@@ -1,0 +1,16 @@
+{
+  "name": "geojson-fishnet",
+  "version": "1.0.0",
+  "description": "Fishnet a geojson FeatureCollection with either square or hexagon grids",
+  "author": {
+    "name": "Doug McCune",
+    "url": "http://dougmccune.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clipper-lib": "^1.0.0",
+    "geojson-extent": "^0.3.1",
+    "progress": "^1.1.8",
+    "turf": "^2.0"
+  }
+}
